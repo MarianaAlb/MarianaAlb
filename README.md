@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarianaAlb
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning programming logic
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on anything that i can help and participate 
 - 📫 How to reach me @amariana.albuquerque@gmail.com
 - 😄 Pronouns: she/her
